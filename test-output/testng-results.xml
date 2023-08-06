@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-07T00:20:18 ICT" name="Default suite" finished-at="2023-08-07T00:20:58 ICT" duration-ms="39885">
+    <groups>
+    </groups>
+    <test started-at="2023-08-07T00:20:18 ICT" name="Default test" finished-at="2023-08-07T00:20:58 ICT" duration-ms="39885">
+      <class name="DemoBlaze.TCCART004">
+        <test-method is-config="true" signature="setup()[pri:0, instance:DemoBlaze.TCCART004@ba54932]" started-at="2023-08-07T00:20:13 ICT" name="setup" finished-at="2023-08-07T00:20:18 ICT" duration-ms="5506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signIn()[pri:1, instance:DemoBlaze.TCCART004@ba54932]" started-at="2023-08-07T00:20:18 ICT" name="signIn" finished-at="2023-08-07T00:20:25 ICT" duration-ms="6328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method signature="homePage()[pri:2, instance:DemoBlaze.TCCART004@ba54932]" started-at="2023-08-07T00:20:25 ICT" name="homePage" finished-at="2023-08-07T00:20:25 ICT" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="monitorCategories()[pri:3, instance:DemoBlaze.TCCART004@ba54932]" started-at="2023-08-07T00:20:25 ICT" name="monitorCategories" finished-at="2023-08-07T00:20:28 ICT" duration-ms="3207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monitorCategories -->
+        <test-method signature="detailProduct()[pri:4, instance:DemoBlaze.TCCART004@ba54932]" started-at="2023-08-07T00:20:28 ICT" name="detailProduct" finished-at="2023-08-07T00:20:34 ICT" duration-ms="6277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detailProduct -->
+        <test-method signature="addToCart()[pri:5, instance:DemoBlaze.TCCART004@ba54932]" started-at="2023-08-07T00:20:34 ICT" name="addToCart" finished-at="2023-08-07T00:20:58 ICT" duration-ms="23996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method is-config="true" signature="end()[pri:0, instance:DemoBlaze.TCCART004@ba54932]" started-at="2023-08-07T00:20:58 ICT" name="end" finished-at="2023-08-07T00:20:59 ICT" duration-ms="739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- DemoBlaze.TCCART004 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
